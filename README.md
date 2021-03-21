@@ -25,4 +25,4 @@ Here's a walkthrough of implemented user stories:
 Link > https://imgur.com/a/jEZbTUZ 
 
 
-<img src='https://i.imgur.com/a/jEZbTUZ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://submissions.us-east-1.linodeobjects.com/ios_university/XOzx6EBd.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
